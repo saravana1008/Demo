@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        let stringConstant = "Changes in develop"
+        let stringConstant = "testing purpose"
         print(stringConstant)
     }
 
